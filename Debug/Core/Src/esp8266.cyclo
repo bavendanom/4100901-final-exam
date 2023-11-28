@@ -1,0 +1,7 @@
+../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usart.h:3147:26:LL_USART_IsActiveFlag_RXNE	2
+../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_ll_usart.h:4543:25:LL_USART_ReceiveData8	1
+../Core/Src/esp8266.c:6:6:Rx_USART2_init	1
+../Core/Src/esp8266.c:15:9:Rx_USART2_put	3
+../Core/Src/esp8266.c:34:10:Rx_USART2_size	3
+../Core/Src/esp8266.c:47:6:Rx_USART2	2
+../Core/Src/esp8266.c:55:6:Rx_USART2_reset	1
